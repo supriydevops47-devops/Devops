@@ -1,0 +1,20 @@
+  1 try { . "c:\Users\supri\AppData\Local\Programs\Micros... 
+   2 git status
+   3 git add Testing.py
+   4 git status
+   5 git add.
+   6 git commit -m "adding testing files"
+   7 git status
+   8  ls
+   9 rm Testing.py
+  10 ls
+  11 git restore Testing.py
+  12 ls
+  13 git commmit new_test.py
+  14 git commit new_test.py
+  15 git commit new_test.py
+  16 git ststus
+  17 git status
+  18 git add new_test.py
+  19 git ststus
+  20 git status
